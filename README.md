@@ -114,3 +114,10 @@ Users are solely responsible for complying with all applicable agreements and la
 ---
 
 **Spotify Audio Configurator 2026 · Latest.version V.2.0**
+
+This project is provided **strictly for informational and testing purposes**.
+Users are solely responsible for complying with all applicable agreements and laws.
+
+---
+
+**Spotify Audio Configurator 2026 · Latest.version V.2.0**
